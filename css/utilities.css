@@ -1,0 +1,137 @@
+/* Margin and Padding */
+
+.my-1 {
+  margin: 0.5rem 0;
+}
+
+.my-2 {
+  margin: 1rem 0;
+}
+
+.my-3 {
+  margin: 2rem 0;
+}
+
+.my-4 {
+  margin: 3rem 0;
+}
+
+.m-1 {
+  margin: 0.5rem;
+}
+
+.m-2 {
+  margin: 1rem;
+}
+
+.m-3 {
+  margin: 2rem;
+}
+
+.m-4 {
+  margin: 3rem;
+}
+
+/* Padding */
+.py-1 {
+  padding: 0.5rem 0;
+}
+
+.py-2 {
+  padding: 1rem 0;
+}
+
+.py-3 {
+  padding: 2rem 0;
+}
+
+.py-4 {
+  padding: 3rem 0;
+}
+
+.p-1 {
+  padding: 0.5rem;
+}
+
+.p-2 {
+  padding: 1rem;
+}
+
+.p-3 {
+  padding: 2rem;
+}
+
+.p-4 {
+  padding: 3rem;
+}
+
+.cta {
+  background-color: var(--primary-color);
+  color: var(--light-color);
+  padding: 0.5rem 1rem;
+}
+
+.cta:hover {
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+.category {
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: 0.55rem;
+  padding: 0.5rem 0.6rem;
+  border-radius: 15px;
+  background-color: var(--secondary-color);
+  color: #fff;
+}
+
+.category-sports {
+  background-color: var(--secondary-color);
+}
+.category-entertainment {
+  background-color: #a66bbe;
+}
+.category-technology {
+  background-color: #009cff;
+}
+
+/* font size */
+.sm {
+  font-size: 0.8rem;
+}
+.md {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+/* backgrounds */
+.bg-primary {
+  background-color: #eceaea;
+  color: #333;
+}
+
+.bg-white {
+  background-color: #fff;
+  color: #333;
+}
+
+article.bg-dark,
+.bg-dark {
+  background-color: #333;
+  color: #fff;
+}
+
+article.bg-red,
+.bg-red {
+  background-color: var(--primary-color);
+  color: var(--light-color);
+}
+
+.bg-grey {
+  background-color: #444;
+  color: #f4f4f4;
+}
+.text-center {
+  text-align: center;
+}
